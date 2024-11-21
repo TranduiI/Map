@@ -17,7 +17,7 @@ Assets/Heureka.meta
 /[Aa]ssets/[Ll]udiq.meta
 /[Aa]ssets/[Ll]udiq.Generated/
 /[Aa]ssets/[Ll]udiq.Generated.meta
-/[Aa]ssets/Prefabs/*
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -59,10 +59,7 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
-*.prefab
-*.png
-*.mat
-*.prefab.meta
+
 
 
 # Unity3D generated meta files
